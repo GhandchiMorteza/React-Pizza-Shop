@@ -27,13 +27,13 @@ Welcome to the Fast React Pizza App repository! This application is designed to 
 1. **Clone the repository**
 
    ```
-   git clone https://github.com/yourusername/fast-react-pizza-app.git
+   git clone https://github.com/yourusername/React-Pizza-Shop.git
    ```
 
 2. **Navigate to the project directory**
 
    ```
-   cd fast-react-pizza-app
+   cd React-Pizza-Shop
    ```
 
 3. **Install dependencies**
@@ -45,10 +45,10 @@ Welcome to the Fast React Pizza App repository! This application is designed to 
 4. **Start the development server**
 
    ```
-   npm start
+   npm run dev
    ```
 
-The application will be available at `http://localhost:3000`.
+The application will be available at localhost.
 
 ## Contributing
 
